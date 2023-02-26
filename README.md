@@ -17,11 +17,14 @@
 <p align="left">
 <a href="https://twitter.com/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodeventurer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thecodeventurer" height="30" width="40" /></a>
-<a href="https://instagram.com/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodeventurer" height="30" width="40" /></a>
+<a href="https://instagram.com/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodeventurer" height="30" width="40" /></a></p>
+
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
 <a href="https://www.hackerrank.com/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thecodeventurer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thecodeventurer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecodeventurer" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thecodeventurer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thecodeventurer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thecodeventurer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
