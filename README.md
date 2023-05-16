@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niraj Modi</h1>
 <h3 align="center">Passionate Full Stack Developer with a Love for Competitive Programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodeventurer&label=Profile%20views&color=0e75b6&style=flat" alt="thecodeventurer" /> </p>
+
+- 👀 PortFolio **[TheCodeVenturer](https://thecodeventurer.github.io)**
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -12,6 +13,7 @@
 - 😄 Pronouns **he/him**
 
 - ⚡ Fun fact **I Like To Make Jokes**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats-nu-sepia.vercel.app/api/top-langs?username=thecodeventurer&show_icons=true&locale=en&layout=compact" alt="thecodeventurer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-nu-sepia.vercel.app/api?username=thecodeventurer&show_icons=true&locale=en" alt="thecodeventurer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodeventurer&label=Profile%20views&color=0e75b6&style=flat" alt="thecodeventurer" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodeventurer&theme=dark" alt="thecodeventurer" /></p>
