@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Modi</h1>
 <h3 align="center">Passionate Full Stack Developer with a Love for Competitive Programming</h3>
 
-- 👀 PortFolio **[TheCodeVenturer](https://nirajmodi.me)**
+- 👀 PortFolio **[Paardarshee](https://nirajmodi.me)**
 
 - 🎭 Another Account **[Niraj@dair](https://github.com/dair-nirajModi)**
 
@@ -28,35 +28,35 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://twitter.com/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://linkedin.com/in/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://linkedin.com/in/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://fb.com/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://fb.com/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://instagram.com/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://instagram.com/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://www.youtube.com/c/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://www.youtube.com/c/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Paardarshee" height="30" width="40" />
 </a>  </p>
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://www.hackerrank.com/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://codeforces.com/profile/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://codeforces.com/profile/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://www.leetcode.com/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://www.leetcode.com/Paardarshee" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Paardarshee" height="30" width="40" />
 </a>  
-<a href="https://auth.geeksforgeeks.org/user/thecodeventurer" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thecodeventurer" height="30" width="40" />
+<a href="https://auth.geeksforgeeks.org/user/TheCodeVenturer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Paardarshee" height="30" width="40" />
 </a>
 </p>
 
@@ -140,9 +140,9 @@
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats-nu-sepia.vercel.app/api?username=thecodeventurer&show_icons=true&locale=en" alt="thecodeventurer" /></p>
+<img align="center" src="https://github-readme-stats-nu-sepia.vercel.app/api?username=Paardarshee&show_icons=true&locale=en" alt="Paardarshee" /></p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=thecodeventurer&label=Profile%20views&color=0e75b6&style=flat" alt="thecodeventurer" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Paardarshee&label=Profile%20views&color=0e75b6&style=flat" alt="Paardarshee" /> </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodeventurer&theme=dark" alt="thecodeventurer" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paardarshee&theme=dark" alt="Paardarshee" /></p>
