@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niraj Modi</h1>
 <h3 align="center">Passionate Full Stack Developer with a Love for Competitive Programming</h3>
 
-- 👀 PortFolio **[Paardarshee](https://nirajmodi.me)**
+- 👀 PortFolio **[Paardarshee](https://paardarshee.github.io)**
 
 - 🎭 Another Account **[Niraj@dair](https://github.com/dair-nirajModi)**
 
